@@ -18,6 +18,13 @@
 
 This project aims to uncover insights into Inpatient and OutPatient cases in a hospital over a period of 4 years. Its analysis spans across variables such as specialty, age ranges, time-bands etc. By analyzing this various aspects, we seek to identify trends, get a clear understanding of patient cases, and make data driven recommendations.
 
+
+<img width="618" alt="INPATIENT SNIP" src="https://github.com/IjeomaUchendu123/INPATIENT-AND-OUTPATIENT-HOSPITAL-ANALYSIS/assets/150269976/d2213310-f386-401b-8527-498e0821fa4e">
+
+
+<img width="621" alt="OUTPATIENT SNIP" src="https://github.com/IjeomaUchendu123/INPATIENT-AND-OUTPATIENT-HOSPITAL-ANALYSIS/assets/150269976/3fa1de8a-2002-4f17-b6d0-afbef4eab2bc">
+
+
 ### DATA SOURCES
 
 The primary data sets used for this analysis are the  containing various information for each year for Inpatients and Outpatients of the hospital.
