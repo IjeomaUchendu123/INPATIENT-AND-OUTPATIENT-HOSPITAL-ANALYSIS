@@ -27,7 +27,7 @@ This project aims to uncover insights into Inpatient and OutPatient cases in a h
 
 ### DATA SOURCES
 
-The primary data sets used for this analysis are the  containing various information for each year for Inpatients and Outpatients of the hospital.
+The primary data sets used for this analysis are the "IN_WL 2018.csv", "IN_WL 2019.csv", "IN_WL 2020.csv","IN_WL 2021.csv","Op_WL 2018.csv", "Op_WL 2019.csv","Op_WL 2020.csv","Op_WL 2021.csv",containing various information for each year for Inpatients and Outpatients of the hospital respectively.
 
 ### TOOLS
 
