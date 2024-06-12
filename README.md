@@ -2,6 +2,18 @@
 
 ## TABLE OF CONTENTS
 
+- [PROJECT OVERVIEW](#project-overview)
+- [DATA SOURCES](#data-sources)
+- [TOOLS](#tools)
+- [DATA CLEANING](#data-cleaning)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+- [DATA ANALYSIS](#data-analysis)
+- [FINDINGS](#findings)
+- [RECOMMENDATIONS](#recommendations)
+- [LIMITATIONS](#limitations)
+- [REFERENCES](#references)
+
+
 ### PROJECT OVERVIEW
 
 This project aims to uncover insights into Inpatient and OutPatient cases in a hospital over a period of 4 years. Its analysis spans across variables such as specialty, age ranges, time-bands etc. By analyzing this various aspects, we seek to identify trends, get a clear understanding of patient cases, and make data driven recommendations.
@@ -13,9 +25,9 @@ The primary data sets used for this analysis are the  containing various informa
 ### TOOLS
 
 - PowerBI(Data Cleaning, Analysis and Creating interactive dashboard)
-  - (Download Here)( Put Link here)
+  - (Download Here)(https://powerbi.microsoft.com/en-us/downloads/)
 
-### DATA CLEANING/PREPARATION
+### DATA CLEANING
 
 In the data preparation stage, the following tasks were performed:
 1. Data Loading and Inspection
