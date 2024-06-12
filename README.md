@@ -34,7 +34,7 @@ The primary data sets used for this analysis are the "IN_WL 2018.csv", "IN_WL 20
 - PowerBI(Data Cleaning, Analysis and Creating interactive dashboard)
   - (Download Here)(https://powerbi.microsoft.com/en-us/downloads/)
 
-### DATA CLEANING
+### DATA CLEANING AND PREPARATION
 
 In the data preparation stage, the following tasks were performed:
 1. Data Loading and Inspection
@@ -42,6 +42,7 @@ In the data preparation stage, the following tasks were performed:
 3. Handling missing values
 4. Data Formatting such as month and year extraction
 5. Renaming blank cells
+6. Creating New Measures
 
 ### EXPLORATORY DATA ANALYSIS
 
@@ -71,7 +72,7 @@ The results from the analysis are summarized as follows:
 - For both Inpatient and Outpatient cases, adults within the range of 16-64 years has the highest number of cases.
 - For both Inpatient and Outpatient cases, the year 2020 had the highest number of cases.
 - Cases that are within 0-3 months band are the highest i.e most cases take within 0 to 3 months to treat.
-- General Surgeries makes the highest number of cases when it comes to specialty.
+- General Surgeries has the highest number of cases when it comes to specialty.
 - For Inpatient Cases, DayCase makes up 70.91% while Inpatient makes up 29.1%.
 
 ### RECOMMENDATIONS
@@ -83,7 +84,7 @@ Based on the analysis, the following actions are recommended;
 - For Inpatient cases, there should be a section for DayCases as they make up the higher population with over 70%.
 
 ### LIMITATIONS
-There were 175 Outpatients with no records of their age or age range. However, this was left catered to and renamed as "Not Stated" and "Unidentified" respectively in order not to skew the final results of our analysis. This number makes up just about 0.6% 0f our data.
+There were 175 Outpatients with no records of their age or age range. However, this was left catered to and renamed as "Not Stated" and "Unidentified" respectively in order not to skew the final results of our analysis. This number makes up just about 0.06% 0f our data.
 
 ### REFERENCES
 Google for searches on some medical terms.
