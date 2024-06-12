@@ -8,7 +8,7 @@ This project aims to uncover insights into Inpatient and OutPatient cases in a h
 
 ### DATA SOURCES
 
-The primary data sets used for this analysis are the containing various information for each year for Inpatients and Outpatients of the hospital.
+The primary data sets used for this analysis are the  containing various information for each year for Inpatients and Outpatients of the hospital.
 
 ### TOOLS
 
@@ -22,6 +22,7 @@ In the data preparation stage, the following tasks were performed:
 2. Appending files for each year
 3. Handling missing values
 4. Data Formatting such as month and year extraction
+5. Renaming blank cells
 
 ### EXPLORATORY DATA ANALYSIS
 
@@ -63,7 +64,7 @@ Based on the analysis, the following actions are recommended;
 - For Inpatient cases, there should be a section for DayCases as they make up the higher population with over 70%.
 
 ### LIMITATIONS
-There were 175 Outpatients with no records of their age or age range. However, this was left catered to in order not to skew the final results of our analysis.
+There were 175 Outpatients with no records of their age or age range. However, this was left catered to and renamed as "Not Stated" and "Unidentified" respectively in order not to skew the final results of our analysis. This number makes up just about 0.6% 0f our data.
 
 ### REFERENCES
 Google for searches on some medical terms.
